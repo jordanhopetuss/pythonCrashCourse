@@ -1,0 +1,12 @@
+Styling Python Code
+- Guidelines and good habits:
+    * Python Enhancement Proposal (PEP)
+    * Example: PEP 8 - which instructs Python programmers on how to style their code.
+    * Code is read more often than written.
+    * Indentation
+        - Four spaces per indentation level
+    * Line Length
+        - Each line is less than 80 characters
+        - Limit commenst to 72 characters per line
+    * Blank Lines
+        - To group parts of your project visually, use blank lines
